@@ -1,0 +1,36 @@
+
+H1
+{
+    font-size: 70px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: BOLD;
+}
+p3,p4
+{
+    font-size:60px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: BOLD;
+}
+p4
+{
+    opacity: 40%;
+}
+p3
+{
+    opacity: 70%;
+}
+p1
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+p5
+{
+  flex-direction: row;
+    
+}
+body
+{
+    display:center ;
+}
